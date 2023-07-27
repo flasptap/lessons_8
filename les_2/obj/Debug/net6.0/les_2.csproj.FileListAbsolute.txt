@@ -1,0 +1,15 @@
+C:\Users\FlapStap\Desktop\lessons 8\les_2\bin\Debug\net6.0\les_2.exe
+C:\Users\FlapStap\Desktop\lessons 8\les_2\bin\Debug\net6.0\les_2.deps.json
+C:\Users\FlapStap\Desktop\lessons 8\les_2\bin\Debug\net6.0\les_2.runtimeconfig.json
+C:\Users\FlapStap\Desktop\lessons 8\les_2\bin\Debug\net6.0\les_2.dll
+C:\Users\FlapStap\Desktop\lessons 8\les_2\bin\Debug\net6.0\les_2.pdb
+C:\Users\FlapStap\Desktop\lessons 8\les_2\obj\Debug\net6.0\les_2.csproj.AssemblyReference.cache
+C:\Users\FlapStap\Desktop\lessons 8\les_2\obj\Debug\net6.0\les_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FlapStap\Desktop\lessons 8\les_2\obj\Debug\net6.0\les_2.AssemblyInfoInputs.cache
+C:\Users\FlapStap\Desktop\lessons 8\les_2\obj\Debug\net6.0\les_2.AssemblyInfo.cs
+C:\Users\FlapStap\Desktop\lessons 8\les_2\obj\Debug\net6.0\les_2.csproj.CoreCompileInputs.cache
+C:\Users\FlapStap\Desktop\lessons 8\les_2\obj\Debug\net6.0\les_2.dll
+C:\Users\FlapStap\Desktop\lessons 8\les_2\obj\Debug\net6.0\refint\les_2.dll
+C:\Users\FlapStap\Desktop\lessons 8\les_2\obj\Debug\net6.0\les_2.pdb
+C:\Users\FlapStap\Desktop\lessons 8\les_2\obj\Debug\net6.0\les_2.genruntimeconfig.cache
+C:\Users\FlapStap\Desktop\lessons 8\les_2\obj\Debug\net6.0\ref\les_2.dll
